@@ -4,8 +4,8 @@ var friends = [
 	{
 		name: 'Ahmed',
 		photo:
-			'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg',
-		scores: [ '5', '1', '4', '4', '5', '1', '2', '5', '4', '1' ]
+			'http://www.executivestyle.com.au/content/dam/images/3/4/m/d/3/image.related.articleLeadwide.620x349.34hlt.png/1428456294765.jpg',
+		scores: [ '5', '1', '4', '4', '4', '1', '2', '5', '4', '4' ]
 	},
 	{
 		name: 'Michael B Jordan',
