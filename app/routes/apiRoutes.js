@@ -73,7 +73,6 @@ module.exports = function(app) {
 			console.log(' -------------------> ' + totalDifference);
 
 			// If the sum of differences is less then the differences of the current "best match"
-			// We are looking for the smallest difference (most similar) people's interests
 			// conditional- if totalDifference is less than or equal to my preset value (9999) of bestMatch.matchDif do the following
 			if (totalDifference <= bestMatch.matchDif) {
 				// set best match = friendData
@@ -111,5 +110,4 @@ module.exports = function(app) {
 	});
 };
 
-//change questions
 // deploy to heroku
