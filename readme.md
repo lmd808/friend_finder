@@ -3,6 +3,19 @@
 ## Problem:
 There are so many people in this would, but which one should you be friends with? Friend finder allows you to find the closest friend match possible.
 
+## Technologies: 
+* [Javascript](https://www.javascript.com/) - The scripting language used to manipulate the DOM. 
+* [Heroku](https://www.heroku.com/)- Cloud platform which builds databases and websites deployed online. 
+* [Node](https://nodejs.org/en) - Javascript run-time environment (used to execute server side code.)
+* [Express](https://www.npmjs.com/package/express) - Node package used as middleware to create routes.
+* [ExpressHandleBars](https://www.npmjs.com/package/handlebars) - Node package used as middleware to create page templates. 
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Mark up language used for structuring pages. 
+* [BootStrap](https://getbootstrap.com/) - popular framework for building responsive websites
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) -is a stylesheet language used to describe the presentation of a document written in HTML or XML
+* [Sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. 
+* [SQL](https://developer.mozilla.org/en-US/docs/Glossary/SQL) - SQL is a standard language for storing, manipulating and retrieving data in databases.
+
+
 ## Site Demo: 
 Below are gifs capturing the functionality of my Friend Frindr application
  
