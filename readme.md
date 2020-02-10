@@ -29,7 +29,7 @@ The below gifs offer some insight into what is happening in the background of my
 ![Gif](./images/cli_demo_gif_3.gif)
 
 ## Link to Live Version: 
-[Heroku Link](https://ichef.bbci.co.uk/news/660/media/images/67617000/jpg/_67617336_hi-its-god-here.jpg)
+[Heroku Link](https://stubbled-path.herokuapp.com/)
 ## Link to GitHub Repo:
 [Repo Link](https://github.com/lmd808/friend_finder)
 
