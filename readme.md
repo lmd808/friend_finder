@@ -12,8 +12,6 @@ There are so many people in this would, but which one should you be friends with
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Mark up language used for structuring pages. 
 * [BootStrap](https://getbootstrap.com/) - popular framework for building responsive websites
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) -is a stylesheet language used to describe the presentation of a document written in HTML or XML
-* [Sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. 
-* [SQL](https://developer.mozilla.org/en-US/docs/Glossary/SQL) - SQL is a standard language for storing, manipulating and retrieving data in databases.
 
 
 ## Site Demo: 
